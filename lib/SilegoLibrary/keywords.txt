@@ -1,0 +1,4 @@
+Silego	KEYWORD1
+silego	KEYWORD1
+writeI2C	KEYWORD2
+readI2C	KEYWORD2
